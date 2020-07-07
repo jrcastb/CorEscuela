@@ -1,0 +1,39 @@
+C:\Users\JOSE R\Documents\web\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.exe
+C:\Users\JOSE R\Documents\web\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.deps.json
+C:\Users\JOSE R\Documents\web\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.json
+C:\Users\JOSE R\Documents\web\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.dev.json
+C:\Users\JOSE R\Documents\web\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\JOSE R\Documents\web\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\JOSE R\Documents\web\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\JOSE R\Documents\web\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\JOSE R\Documents\web\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfo.cs
+C:\Users\JOSE R\Documents\web\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\JOSE R\Documents\web\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\JOSE R\Documents\web\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\JOSE R\Documents\web\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.genruntimeconfig.cache
+C:\Users\User\Documents\WWW\CSharp\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.exe
+C:\Users\User\Documents\WWW\CSharp\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.deps.json
+C:\Users\User\Documents\WWW\CSharp\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.json
+C:\Users\User\Documents\WWW\CSharp\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.dev.json
+C:\Users\User\Documents\WWW\CSharp\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\User\Documents\WWW\CSharp\Etapa1\bin\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\User\Documents\WWW\CSharp\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\User\Documents\WWW\CSharp\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\WWW\CSharp\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfo.cs
+C:\Users\User\Documents\WWW\CSharp\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WWW\CSharp\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\User\Documents\WWW\CSharp\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\User\Documents\WWW\CSharp\Etapa1\obj\Debug\netcoreapp3.1\Etapa1.genruntimeconfig.cache
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\bin\Debug\netcoreapp3.1\Etapa1.exe
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\bin\Debug\netcoreapp3.1\Etapa1.deps.json
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.json
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.dev.json
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\bin\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\bin\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\obj\Debug\netcoreapp3.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfo.cs
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\obj\Debug\netcoreapp3.1\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\obj\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\obj\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\User\Documents\WWW\CSharp\CorEscuela\obj\Debug\netcoreapp3.1\Etapa1.genruntimeconfig.cache
