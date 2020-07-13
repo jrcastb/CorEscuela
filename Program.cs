@@ -16,15 +16,16 @@ namespace CorEscuela
             Printer.WriteTitle("Bienvenidos a la Escuela");
             //Printer.Beep(2000, cantidad:10);
             ImprimirCursosEscuela(engine.Escuela);
-            Dictionary<int, string> diccionario = new Dictionary<int, string>();
+             Dictionary<int, string> diccionario = new Dictionary<int, string>();
             diccionario.Add(10, "JoseR");
-            diccionario.Add(23, "Lorem Ipsum");
+            diccionario.Add(23, "Lorem Ipsum"); 
 
             foreach (var keyValuePair in diccionario)
             {
                 WriteLine($"Key: {keyValuePair.Key}, Valor: {keyValuePair.Value}");
             }
             var dicTemp = engine.GetDiccionarioObjetos();
+            engine.ImprimirDiccionario(dicTemp);
             /*var listaILugar = from obj in listaObjetos
                                 where obj is ILugar
                                 select (ILugar) obj;*/
